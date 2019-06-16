@@ -25,4 +25,3 @@
 
 1. Download multimodal-observer-<version>.jar from build/libs folder
 2. Execute `java -jar multimodal-observer-<version>.jar` (this way you can read logging information) in command line or simply double click it.
-# Mo_Wizard
